@@ -5,8 +5,8 @@ name: Twitter Push Notification
 
 on:
   push:
-    branches:
-      - master
+#    branches:
+#      - master
 
 
 jobs:
